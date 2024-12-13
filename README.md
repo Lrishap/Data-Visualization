@@ -4,7 +4,7 @@ at the ATLAS detector. The proposed ADAM detector is designed to be placed above
 was obtained using the Pythia8 simulations. 
 
 Parameters:
-The Parameters (lifetime, branching fraction, number of events) for the Dark Higgs bosons needed for the Pythia8 simulations are shownin /Parameters for Pythia8
+The Parameters (lifetime, branching fraction, number of events) for the Dark Higgs bosons needed for the Pythia8 simulations are shown in /Parameters for Pythia8.
 
 Data Points:
 The data points for the parameter space sin^2_theta vs m_phi was obtained using Pythia8 simulations for Dark Higgs being produced from Exotic Higgs decays and 
