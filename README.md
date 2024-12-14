@@ -11,5 +11,5 @@ The data points for the parameter space sin^2_theta vs m_phi was obtained using 
 B meson decays during proton-proton collisions at 13 TeV center of mass energies assuming LHC Run 4 scenarios. 
 
 Curve Spline Interpolation:
-The data points was used to obtain the parameter space sin^2_theta vs m_phi for both prodcution mechanisms using Curve Spline Interpolation in Python. The smooth
+The data points was used to obtain the parameter space sin^2_theta vs m_phi for both prodcution mechanisms using Curve Spline Interpolation in Python shown in /Parameter Space Plots. The smooth
 curve shows the region of space that is covered by ADAM for the model constraints of the Dark Higgs boson production mechanisms.
